@@ -1,0 +1,13 @@
+Object.assign(exports, {
+    ROAD_DATA: "roadData",
+    BUILD_DATA: "buildData",
+    PHASE_ROADS: 0,
+    PHASE_EXTENSIONS: 1,
+    EXTENSION_OPTIONS: "eo",
+    TOWER_BUILD_STEP: 1001,
+    ROAD_BUILD_RESET_DATA_STEP: 100000,
+    ROAD_BUILD_STEP: 500,
+    ROAD_BUILD_CALC_STEP: 100,
+    X_ROOM_EDGE: 49,
+    Y_ROOM_EDGE: 49
+})
