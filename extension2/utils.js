@@ -119,5 +119,9 @@ module.exports = {
         }
 
         return area
+    },
+
+    valueOutOfLookRange: function(val) {
+        return val > 49 || val < 0
     }
 };
